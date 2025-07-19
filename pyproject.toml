@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "nfe-monitor-focus"
+version = "0.1.0"
+description = "Monitoramento de NF-e com Focus NFe"
+authors = ["Lumieregyn"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
